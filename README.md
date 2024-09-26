@@ -1,3 +1,3 @@
 # CSA云行工作室数据工程考核
-## 2024Winter Finished
+## 2024 Spring Finished
 内容：包含数据工程入门以及O2O优惠券预测（阿里天池赛）
